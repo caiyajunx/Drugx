@@ -32,6 +32,31 @@ EMA：https://www.ema.europa.eu/en
 
 PMDA：http://www.info.pmda.go.jp
 
+## 各国药典
+中国药典：https://www.chp.org.cn/
+
+美国药典：https://online.uspnf.com/
+
+英国药典：https://www.pharmacopoeia.com
+
+日本药典：https://www.pmda.go.jp/english/rs-sb-std/standards-development/jp/0009.html
+
+韩国药典：https://nedrug.mfds.go.kr/ekphome
+
+## 临床试验
+
+中国临床CDE：http://www.chinadrugtrials.org.cn/index.html
+
+中国临床：https://www.chictr.org.cn/index.html
+
+美国临床：http://clinicaltrials.gov/
+
+欧洲临床：https://www.clinicaltrialsregister.eu/ctr-search/search
+
+WHO临床：https://trialsearch.who.int/
+
+ISRCTN临床：https://www.isrctn.com/
+
 ## 药物研发数据库
 
 医药魔方：https://www.pharmcube.com/
@@ -85,3 +110,14 @@ Druganalyst(药品年报销量)：https://druganalyst.com/druglist.aspx
 丁香园论坛：https://www.dxy.cn/bbs/newweb/pc/board/114
 
 小木虫论坛：http://muchong.com/bbs/
+
+## 药物不良反应
+FDA：https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program
+
+国家不良反应监测中心：https://www.cdr-adr.org.cn/
+
+药物不良反应杂志：http://www.cadrj.com/CN/home
+
+中国药物警戒：https://www.zgywjj.com/CN/1672-8629/home.shtml
+
+
